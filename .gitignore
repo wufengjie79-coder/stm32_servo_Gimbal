@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# STM32 / Keil / CubeIDE 构建产物
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.su
+*.crf
+*.axf
+*.lst
+*.htm
+*.dep
+*.iex
+*.lnp
+*.sct
+*.uvguix.*
+MDK-ARM/*/
+build/
